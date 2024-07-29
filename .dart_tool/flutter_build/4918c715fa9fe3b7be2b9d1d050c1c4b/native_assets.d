@@ -1,0 +1,1 @@
+ E:\\5_semester\\Mobile_App\\Pet_Shop\\pet_shop\\.dart_tool\\flutter_build\\4918c715fa9fe3b7be2b9d1d050c1c4b\\native_assets.yaml: 

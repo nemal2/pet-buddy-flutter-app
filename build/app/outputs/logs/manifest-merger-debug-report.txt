@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:2:5-33:19
+MERGED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-14:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\94ee10aeae1a4d85103353239fddcde9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\94ee10aeae1a4d85103353239fddcde9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\931b7543891372e037638965eeff9970\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\931b7543891372e037638965eeff9970\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:name
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [:flutter_native_splash] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-16:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\3fe57bd5d3c2ce0f0ac71f2b847a1090\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\nemal\.gradle\caches\transforms-3\d3059b1f6c05fc2583d66012d24d48f4\transformed\browser-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nemal\.gradle\caches\transforms-3\394c90670e3cdb1b3f1f5b87e1dda50f\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\327b2ac1655b6b534ce5cde2b4cb60cc\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\10fe2a2561efef59518c03a28aae53ce\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\86fdac465aa5ad00dd0afbcb1763994f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\b05e7588409587dcf292acd5c825c4ee\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\77e43b11817b975d3bc4054780f078ef\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\607cdf8689f052d5b77b13668bd0561a\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\01da58ebb0764b6d71066a70adefc033\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\dabf92467bbcff4a8640ec7d41dbe6ac\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\fcabc31486364a342c7724a5a3bb80a1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\94ee10aeae1a4d85103353239fddcde9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\5490833169e27a1d23d690aa0b6f0422\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\604299c07e689675a1f1d7d5f475d66c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\931b7543891372e037638965eeff9970\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\nemal\.gradle\caches\transforms-3\e2aede26c5cb613a98cde006849e20b8\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\nemal\.gradle\caches\transforms-3\8bc64fc588e4a54d7d0e763ae7e49845\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:41:21-70
+data
+ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_native_splash] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\flutter_native_splash\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\3fe57bd5d3c2ce0f0ac71f2b847a1090\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\3fe57bd5d3c2ce0f0ac71f2b847a1090\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\nemal\.gradle\caches\transforms-3\d3059b1f6c05fc2583d66012d24d48f4\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.5.0] C:\Users\nemal\.gradle\caches\transforms-3\d3059b1f6c05fc2583d66012d24d48f4\transformed\browser-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nemal\.gradle\caches\transforms-3\394c90670e3cdb1b3f1f5b87e1dda50f\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\nemal\.gradle\caches\transforms-3\394c90670e3cdb1b3f1f5b87e1dda50f\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\327b2ac1655b6b534ce5cde2b4cb60cc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\327b2ac1655b6b534ce5cde2b4cb60cc\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\10fe2a2561efef59518c03a28aae53ce\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\10fe2a2561efef59518c03a28aae53ce\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\86fdac465aa5ad00dd0afbcb1763994f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\86fdac465aa5ad00dd0afbcb1763994f\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\b05e7588409587dcf292acd5c825c4ee\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\b05e7588409587dcf292acd5c825c4ee\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\77e43b11817b975d3bc4054780f078ef\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\77e43b11817b975d3bc4054780f078ef\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\607cdf8689f052d5b77b13668bd0561a\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\607cdf8689f052d5b77b13668bd0561a\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\01da58ebb0764b6d71066a70adefc033\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\01da58ebb0764b6d71066a70adefc033\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\dabf92467bbcff4a8640ec7d41dbe6ac\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\nemal\.gradle\caches\transforms-3\dabf92467bbcff4a8640ec7d41dbe6ac\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\fcabc31486364a342c7724a5a3bb80a1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\fcabc31486364a342c7724a5a3bb80a1\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\94ee10aeae1a4d85103353239fddcde9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\94ee10aeae1a4d85103353239fddcde9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\5490833169e27a1d23d690aa0b6f0422\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\5490833169e27a1d23d690aa0b6f0422\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\604299c07e689675a1f1d7d5f475d66c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nemal\.gradle\caches\transforms-3\604299c07e689675a1f1d7d5f475d66c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\931b7543891372e037638965eeff9970\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\931b7543891372e037638965eeff9970\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\nemal\.gradle\caches\transforms-3\e2aede26c5cb613a98cde006849e20b8\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\nemal\.gradle\caches\transforms-3\e2aede26c5cb613a98cde006849e20b8\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\nemal\.gradle\caches\transforms-3\8bc64fc588e4a54d7d0e763ae7e49845\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\nemal\.gradle\caches\transforms-3\8bc64fc588e4a54d7d0e763ae7e49845\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\5_semester\Mobile_App\Pet_Shop\pet_shop\android\app\src\debug\AndroidManifest.xml:6:22-64
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] E:\5_semester\Mobile_App\Pet_Shop\pet_shop\build\url_launcher_android\intermediates\merged_manifest\debug\AndroidManifest.xml:11:13-74
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\nemal\.gradle\caches\transforms-3\0e1fe3c9069ea1bc5ecfc6b349cbd38f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.example.pet_shop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.example.pet_shop.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\nemal\.gradle\caches\transforms-3\4f97b41d9a93ef72be6e9124e1975bbc\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\94ee10aeae1a4d85103353239fddcde9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\nemal\.gradle\caches\transforms-3\94ee10aeae1a4d85103353239fddcde9\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\nemal\.gradle\caches\transforms-3\420361e5260c2cb5253237032aa90bb1\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
