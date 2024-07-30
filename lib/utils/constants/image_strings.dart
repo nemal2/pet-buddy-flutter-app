@@ -61,6 +61,7 @@ class TImages {
   // -- OnBoarding Texts
   static const String onBoardingImage1 =
       "assets/images/on_boarding_images/sammy-line-searching.gif";
+
   static const String onBoardingImage2 =
       "assets/images/on_boarding_images/sammy-line-shopping.gif";
   static const String onBoardingImage3 =

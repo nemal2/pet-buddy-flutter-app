@@ -272,6 +272,12 @@
       "languageVersion": "3.2"
     },
     {
+      "name": "smooth_page_indicator",
+      "rootUri": "file:///C:/Users/nemal/AppData/Local/Pub/Cache/hosted/pub.dev/smooth_page_indicator-1.2.0+3",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "source_span",
       "rootUri": "file:///C:/Users/nemal/AppData/Local/Pub/Cache/hosted/pub.dev/source_span-1.10.0",
       "packageUri": "lib/",
@@ -410,7 +416,7 @@
       "languageVersion": "3.4"
     }
   ],
-  "generated": "2024-07-29T16:49:35.588800Z",
+  "generated": "2024-07-30T20:23:13.348178Z",
   "generator": "pub",
   "generatorVersion": "3.4.3",
   "flutterRoot": "file:///D:/flutter/flutter",
