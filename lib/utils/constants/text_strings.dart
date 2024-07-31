@@ -5,16 +5,16 @@ class TTexts {
   static const String skip = "Skip";
   static const String done = "Done";
   static const String submit = "Submit";
-  static const String appName = "T-Store";
+  static const String appName = "Pet Buddy";
   static const String tContinue = "Continue";
 
   // -- OnBoarding Texts
-  static const String onBoardingTitle1 = "Choose your product";
-  static const String onBoardingTitle2 = "Select Payment Method";
-  static const String onBoardingTitle3 = "Deliver at your door step";
+  static const String onBoardingTitle1 = "Find your Beloved Pet";
+  static const String onBoardingTitle2 = "Select Your Payment Method";
+  static const String onBoardingTitle3 = "Work Done !";
 
   static const String onBoardingSubTitle1 =
-      "Welcome to a World of Limitless Choices - Your Perfect Product Awaits!";
+      "Welcome to a paradise of Dogs and Cats - Best Market Place for pet products!";
   static const String onBoardingSubTitle2 =
       "For Seamless Transactions, Choose Your Payment Path - Your Convenience, Our Priority!";
   static const String onBoardingSubTitle3 =
