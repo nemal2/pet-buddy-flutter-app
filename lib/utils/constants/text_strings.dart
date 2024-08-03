@@ -44,7 +44,7 @@ class TTexts {
   // -- Authentication Headings
   static const String loginTitle = "Welcome back,";
   static const String loginSubTitle =
-      "Discover Limitless Choices and Unmatched Convenience.";
+      "Discover Limitless Choices with Pet Buddy";
   static const String signupTitle = "Let’s create your account";
   static const String forgetPasswordTitle = "Forget password";
   static const String forgetPasswordSubTitle =
